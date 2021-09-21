@@ -5,12 +5,14 @@
 
 ### 参考
 > https://forum.clockworkpi.com/t/change-a-larger-lcd-screen-on-gs/4885/11
+
 > https://www.cnblogs.com/lazy-v/p/12667486.html
 
 
 ### 屏幕
 我测试了现在市面上能买到常见两款480P屏幕，都能点亮。能够无缝使用梦中大佬的PCB，具体购买连接见下。
 > https://item.taobao.com/item.htm?id=620085054499
+
 > https://item.taobao.com/item.htm?id=624580652735
 
 实际上只要能对上梦中大佬PCB的引脚映射即可。可以找卖家要屏幕规格说明书，查看引脚定义。
